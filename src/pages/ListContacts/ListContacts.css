@@ -1,0 +1,9 @@
+.Card {
+    width : "300 px" ;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    flex-wrap:wrap;
+    justify-items:stretch ;
+    justify-content: space-around;
+}
